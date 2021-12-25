@@ -1,11 +1,11 @@
 {
     "Name": "Lavnish Chaudhary",
     "Desc": "I Live and Code",
-    "Avatar": "https://i.imgur.com/3uEyHgdl.png"
+    "Avatar": "https://i.imgur.com/3uEyHgdl.png",
     "Socials": {
-      "facebook-f": "Lavnish Chaudhary",
-      "twitter": "N/A",
-      "linkedin-in": "Lavnish Chaudhary",
+      "facebook-f": "lavnish.chaudhary.1",
+      "twitter": "null",
+      "linkedin-in": "lavnish-chaudhary-111770210",
       "instagram": "lavnish_x",
       "github": "lavnishhh"
     },
@@ -33,7 +33,6 @@
             "Text": "GitHub",
             "Link": "https://github.com/lavnishhh"
           }
-  
         ]
-      },
-}
+      }
+    ]
