@@ -1,0 +1,44 @@
+{
+    "Name": "Siddhartha Bhattacharjee",
+    "Desc": "Just learning how to code :)",
+    "Avatar": "https://avatars.githubusercontent.com/u/93196018?s=400&u=679a0b65dfac68f3ebb2b4f5c7972f3704ab9202&v=4",
+    "Socials": {
+      "facebook-f": null,
+      "twitter": "Siddhartha_2345",
+      "linkedin-in": "siddharthabhattacharjee2345",
+      "instagram": "programmer_sid",
+      "github": "SiddharthaBhattacharjee"
+    },
+    "Links": [
+      {
+        "Heading": "Personal",
+        "List": [
+          {
+            "Icon": "globe-europe",
+            "Text": "Website",
+            "Link": "https://praveen.science/"
+          },
+          {
+            "Icon": "blog",
+            "Text": "Blog",
+            "Link": "https://blog.praveen.science/"
+          }
+        ]
+      },
+      {
+        "Heading": "Professional",
+        "List": [
+          {
+            "Icon": "briefcase",
+            "Text": "Cloudroit",
+            "Link": "https://cloudroit.com/"
+          },
+          {
+            "Icon": "link",
+            "Text": "Lynku",
+            "Link": "https://beta.lynku.co/"
+          }
+        ]
+      }
+    ]
+  }
