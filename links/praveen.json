@@ -1,4 +1,44 @@
 {
     "Name": "Praveen Kumar",
-    "Desc": "Eatu Sleepu Codeu Repeatu"
-}
+    "Desc": "Eatu Sleepu Codeu Repeatu",
+    "Socials": {
+      "facebook-f": "praveenscience",
+      "twitter": "praveenscience",
+      "linkedin-in": "praveentech",
+      "instagram": "praveenscience",
+      "github": "praveenscience"
+    },
+    "Links": [
+      {
+        "Heading": "Personal",
+        "List": [
+          {
+            "Icon": "globe-europe",
+            "Text": "Website",
+            "Link": "https://praveen.science/"
+          },
+          {
+            "Icon": "blog",
+            "Text": "Blog",
+            "Link": "https://blog.praveen.science/"
+          }
+        ]
+      },
+      {
+        "Heading": "Professional",
+        "List": [
+          {
+            "Icon": "briefcase",
+            "Text": "Cloudroit",
+            "Link": "https://cloudroit.com/"
+          },
+          {
+            "Icon": "link",
+            "Text": "Lynku",
+            "Link": "https://beta.lynku.co/"
+          }
+        ]
+      }
+    ]
+  }
+  
