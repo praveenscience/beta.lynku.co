@@ -2,4 +2,38 @@
     "Name": "Lavnish Chaudhary",
     "Desc": "I Live and Code",
     "Avatar": "https://i.imgur.com/3uEyHgdl.png"
+    "Socials": {
+      "facebook-f": "Lavnish Chaudhary",
+      "twitter": "N/A",
+      "linkedin-in": "Lavnish Chaudhary",
+      "instagram": "lavnish_x",
+      "github": "lavnishhh"
+    },
+    "Links": [
+      {
+        "Heading": "Personal",
+        "List": [
+          {
+            "Icon": "globe-europe",
+            "Text": "Website",
+            "Link": "https://apple.com/"
+          },
+          {
+            "Icon": "globe-europe",
+            "Text": "Website",
+            "Link": "https://www.linkedin.com/in/lavnish-chaudhary-111770210/"
+          },
+          {
+            "Icon": "instagram",
+            "Text": "Instagram",
+            "Link": "https://www.instagram.com/lavnish_x/"
+          },
+          {
+            "Icon": "git-hub",
+            "Text": "GitHub",
+            "Link": "https://github.com/lavnishhh"
+          }
+  
+        ]
+      },
 }
