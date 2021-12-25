@@ -25,6 +25,8 @@ $(function () {
     })
     .fail(function() {
       console.log( "Error, User not found!" );
+      $(".js-Name").text("Error 404");
+      $(".js-Desc").text("User Doesn't Exist!");
     });
   }
 });
