@@ -15,6 +15,13 @@ $(function () {
         PageName,
         Data: res
       });
+      // Update the title.
+      $(".js-Name").text(res.Name);
+      $(".js-Desc").text(res.Desc);
+      $(".js-Avatar").attr({
+        src: res.Avatar,
+        alt: res.Name
+      });
     })
     .fail(function() {
       console.log( "Error, User not found!" );
