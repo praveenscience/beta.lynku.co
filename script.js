@@ -2,6 +2,7 @@
 $(function () {
   // Get some basic page data.
   // Check if you are inside the links page.
+  console.log("Happy coding");
   var InsidePage = !!window.location.href.split("/")[3];
   var PageName = null;
   if (InsidePage) {
