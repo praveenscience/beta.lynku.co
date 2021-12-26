@@ -2,9 +2,9 @@
 $(function () {
   // Get some basic page data.
   // Check if you are inside the links page.
+  console.log("hello");
   var InsidePage = !!window.location.href.split("/")[3];
   var PageName = null;
-  console.log("vanakam da mapula thanjaur laruthu");
   if (InsidePage) {
     // Get the pageName.
     PageName = window.location.href.split("/")[3];
